@@ -43,10 +43,9 @@ li {
 
 .titulo {
     text-align: center;
-}
-
-.titulo-01 {
-    text-align: center;
+    box-sizing: border-box;
+    width: 500px;
+    margin: 0 auto;
 }
 
 .dias-semana {
